@@ -1,5 +1,5 @@
 <h1 align="center">Eu sou o <a href="https://www.linkedin.com/in/wallaceherlon/"><i>Wallace Herlon</i></a> 😃️</h1>
-  <p>Estudo Formação Fullstack Master na <a href="https://www.devpleno.com/"><i>DevPleno</i></a>, atualmente trabalho como técnico em eletrônica de manutenção ATM's. Em março/2022 me determinei a seguir a carreira Fullstack em React onde tive uma imersão vendo uma aplicação de catálogo de filmes utilizando as tecnologias, foi a onde eu me determinei a seguir esse caminho. Antes disso já tive contato com C# e Kotlin, e hoje com maturidade em Javascript o mais importante e a logica de programaçao.</p>
+  <p>Estudo Formação Fullstack Master na <a href="https://www.devpleno.com/"><i>DevPleno</i></a>, atualmente trabalho como técnico em eletrônica de manutenção ATM's. Em março/2022 me determinei a seguir a carreira Fullstack em React onde tive uma imersão vendo uma aplicação de catálogo de filmes utilizando as tecnologias, foi a onde eu me determinei a seguir esse caminho. Antes disso já tive contato com C# e Kotlin, e hoje com maturidade quero seguir em Javascript. Nessa trajetória apreender que o mais importante e a lógica de programação.</p>
   <p>Sou formado em análise e desenvolvimento de sistema, concluir em 2018. quero realizar meu objetivo de transição de carreia.</p>
 
 <h3 align="left">
