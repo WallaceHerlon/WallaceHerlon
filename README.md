@@ -3,7 +3,8 @@
   <p>Sou formado em análise e desenvolvimento de sistema, concluir em 2018. quero realizar meu objetivo de transição de carreia.</p>
   
 <h3 align="center">Projetos</h3>
-<p><a href="https://palpite-box-zeta-six.vercel.app/">Papite-Box</a></p>
+
+[Papite-Box](https://palpite-box-zeta-six.vercel.app/)
 - [Repositório](https://github.com/WallaceHerlon/palpite-box)
 - Contruindo com: NextJS + TailwindCSS + Google Sheets
 
