@@ -16,7 +16,13 @@
 
 [Perguntas-e-Respostas]
 - [Repositório](https://github.com/WallaceHerlon/plataforma-perguntas)
-- Contruindo com: NodeJS + Express + EJS + Bootstrap 
+- Contruindo com: NodeJS + Express + EJS + Bootstrap
+
+[Blog-node-express]
+- [Repositório](https://github.com/WallaceHerlon/blog-node-express)
+- Contruindo com: NodeJS + Express + EJS + Bootstrap + BcryptJs + mySQL
+
+
 
 
 
